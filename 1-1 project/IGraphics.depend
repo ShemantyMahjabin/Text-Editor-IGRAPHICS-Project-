@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1677091689 source:c:\users\shema\documents\project\text editor\blah.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<string>
+	"iGraphics.h"
+
+1676742538 c:\users\shema\documents\project\text editor\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1675331669 c:\users\shema\documents\project\text editor\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1675331669 c:\users\shema\documents\project\text editor\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
